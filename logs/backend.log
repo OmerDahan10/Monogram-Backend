@@ -1,0 +1,451 @@
+26/01/2022, 19:33:05 - INFO - Server is running on port: 3030 
+26/01/2022, 19:33:08 - INFO - Server is running on port: 3030 
+26/01/2022, 19:33:13 - INFO - Server is running on port: 3030 
+26/01/2022, 19:33:21 - INFO - Server is running on port: 3030 
+27/01/2022, 0:00:45 - INFO - Server is running on port: 3030 
+27/01/2022, 0:01:16 - INFO - Server is running on port: 3030 
+27/01/2022, 12:02:06 - INFO - Server is running on port: 3030 
+27/01/2022, 12:02:19 - ERROR - cannot find posts | TypeError: Cannot read properties of undefined (reading 'map') 
+27/01/2022, 12:02:19 - ERROR - Failed to get posts | TypeError: Cannot read properties of undefined (reading 'map') 
+27/01/2022, 12:02:19 - ERROR - cannot find user undefined | TypeError: collection.finOne is not a function 
+27/01/2022, 12:04:30 - INFO - Server is running on port: 3030 
+27/01/2022, 12:04:37 - ERROR - cannot find posts | TypeError: Cannot read properties of undefined (reading 'map') 
+27/01/2022, 12:04:37 - ERROR - Failed to get posts | TypeError: Cannot read properties of undefined (reading 'map') 
+27/01/2022, 12:04:37 - ERROR - cannot find user undefined | TypeError: collection.finOne is not a function 
+27/01/2022, 12:05:39 - INFO - Server is running on port: 3030 
+27/01/2022, 12:05:43 - ERROR - cannot find user undefined | TypeError: collection.finOne is not a function 
+27/01/2022, 12:05:43 - ERROR - cannot find posts | TypeError: collection.finOne is not a function 
+27/01/2022, 12:05:43 - ERROR - Failed to get posts | TypeError: collection.finOne is not a function 
+27/01/2022, 12:06:16 - INFO - Server is running on port: 3030 
+27/01/2022, 12:06:20 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 12:06:20 - ERROR - cannot find posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 12:06:20 - ERROR - Failed to get posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 12:08:07 - INFO - Server is running on port: 3030 
+27/01/2022, 12:08:13 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 12:08:13 - ERROR - cannot find posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 12:08:13 - ERROR - Failed to get posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 12:08:40 - INFO - Server is running on port: 3030 
+27/01/2022, 12:08:44 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 12:08:44 - ERROR - cannot find posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 12:08:44 - ERROR - Failed to get posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 12:09:46 - INFO - Server is running on port: 3030 
+27/01/2022, 12:09:52 - INFO - Server is running on port: 3030 
+27/01/2022, 12:15:25 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 12:15:25 - ERROR - cannot find posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 12:15:25 - ERROR - Failed to get posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 12:17:03 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 12:17:03 - ERROR - cannot find posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 12:17:03 - ERROR - Failed to get posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 12:17:17 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 12:17:17 - ERROR - cannot find posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 12:17:17 - ERROR - Failed to get posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 12:18:08 - INFO - Server is running on port: 3030 
+27/01/2022, 12:18:11 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 12:18:11 - ERROR - cannot find posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 12:18:11 - ERROR - Failed to get posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 12:19:35 - INFO - Server is running on port: 3030 
+27/01/2022, 12:19:38 - ERROR - cannot find user "61f17240c947374120815434" | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters 
+27/01/2022, 12:19:38 - ERROR - cannot find posts | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters 
+27/01/2022, 12:19:38 - ERROR - Failed to get posts | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters 
+27/01/2022, 12:24:41 - ERROR - cannot find user '61f17240c947374120815435' | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters 
+27/01/2022, 12:24:41 - ERROR - cannot find posts | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters 
+27/01/2022, 12:24:41 - ERROR - Failed to get posts | BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters 
+27/01/2022, 12:25:34 - INFO - Server is running on port: 3030 
+27/01/2022, 12:38:51 - INFO - Server is running on port: 3030 
+27/01/2022, 12:40:48 - INFO - Server is running on port: 3030 
+27/01/2022, 12:40:51 - ERROR - cannot find posts | ReferenceError: following is not defined 
+27/01/2022, 12:40:51 - ERROR - Failed to get posts | ReferenceError: following is not defined 
+27/01/2022, 12:41:04 - ERROR - cannot find posts | ReferenceError: following is not defined 
+27/01/2022, 12:41:04 - ERROR - Failed to get posts | ReferenceError: following is not defined 
+27/01/2022, 12:41:07 - ERROR - cannot find posts | ReferenceError: following is not defined 
+27/01/2022, 12:41:07 - ERROR - Failed to get posts | ReferenceError: following is not defined 
+27/01/2022, 12:41:31 - ERROR - cannot find posts | ReferenceError: following is not defined 
+27/01/2022, 12:41:31 - ERROR - Failed to get posts | ReferenceError: following is not defined 
+27/01/2022, 12:41:50 - INFO - Server is running on port: 3030 
+27/01/2022, 12:42:40 - INFO - Server is running on port: 3030 
+27/01/2022, 12:43:43 - INFO - Server is running on port: 3030 
+27/01/2022, 12:44:19 - INFO - Server is running on port: 3030 
+27/01/2022, 12:45:22 - INFO - Server is running on port: 3030 
+27/01/2022, 12:46:29 - INFO - Server is running on port: 3030 
+27/01/2022, 12:50:32 - INFO - Server is running on port: 3030 
+27/01/2022, 12:50:37 - ERROR - cannot find posts | TypeError: Cannot read properties of undefined (reading 'flat') 
+27/01/2022, 12:50:37 - ERROR - Failed to get posts | TypeError: Cannot read properties of undefined (reading 'flat') 
+27/01/2022, 12:50:43 - INFO - Server is running on port: 3030 
+27/01/2022, 12:50:46 - ERROR - cannot find posts | TypeError: Cannot read properties of undefined (reading 'flat') 
+27/01/2022, 12:50:46 - ERROR - Failed to get posts | TypeError: Cannot read properties of undefined (reading 'flat') 
+27/01/2022, 12:57:24 - INFO - Server is running on port: 3030 
+27/01/2022, 13:00:02 - INFO - Server is running on port: 3030 
+27/01/2022, 13:02:33 - INFO - Server is running on port: 3030 
+27/01/2022, 17:56:06 - INFO - Server is running on port: 3030 
+27/01/2022, 17:56:28 - INFO - Server is running on port: 3030 
+27/01/2022, 17:58:33 - INFO - Server is running on port: 3030 
+27/01/2022, 18:00:50 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:00:50 - ERROR - cannot find posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:00:50 - ERROR - Failed to get posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:01:35 - INFO - Server is running on port: 3030 
+27/01/2022, 18:01:38 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:01:38 - ERROR - cannot find posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:01:38 - ERROR - Failed to get posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:02:14 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:02:14 - ERROR - cannot find posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:02:14 - ERROR - Failed to get posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:02:17 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:02:17 - ERROR - cannot find posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:02:17 - ERROR - Failed to get posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:03:01 - INFO - Server is running on port: 3030 
+27/01/2022, 18:03:04 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:03:04 - ERROR - cannot find posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:03:04 - ERROR - Failed to get posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:03:27 - INFO - Server is running on port: 3030 
+27/01/2022, 18:03:29 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:03:29 - ERROR - cannot find posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:03:29 - ERROR - Failed to get posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:03:36 - INFO - Server is running on port: 3030 
+27/01/2022, 18:04:49 - INFO - Server is running on port: 3030 
+27/01/2022, 18:04:55 - INFO - Server is running on port: 3030 
+27/01/2022, 18:05:08 - INFO - Server is running on port: 3030 
+27/01/2022, 18:12:11 - INFO - Server is running on port: 3030 
+27/01/2022, 18:12:33 - INFO - Server is running on port: 3030 
+27/01/2022, 18:12:38 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:12:38 - ERROR - Failed to get user | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:12:59 - INFO - Server is running on port: 3030 
+27/01/2022, 18:13:02 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:13:02 - ERROR - Failed to get user | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:13:18 - INFO - Server is running on port: 3030 
+27/01/2022, 18:13:51 - INFO - Server is running on port: 3030 
+27/01/2022, 18:16:55 - INFO - Server is running on port: 3030 
+27/01/2022, 18:17:05 - INFO - Server is running on port: 3030 
+27/01/2022, 18:17:09 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:17:09 - ERROR - Failed to get user | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:17:26 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:17:26 - ERROR - Failed to get user | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 18:17:46 - INFO - Server is running on port: 3030 
+27/01/2022, 18:23:57 - INFO - Server is running on port: 3030 
+27/01/2022, 18:24:17 - INFO - Server is running on port: 3030 
+27/01/2022, 18:27:59 - INFO - Server is running on port: 3030 
+27/01/2022, 18:28:30 - INFO - Server is running on port: 3030 
+27/01/2022, 18:58:37 - INFO - Server is running on port: 3030 
+27/01/2022, 18:59:19 - INFO - Server is running on port: 3030 
+27/01/2022, 19:01:41 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:01:41 - ERROR - cannot find posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:01:41 - ERROR - Failed to get posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:02:36 - INFO - Server is running on port: 3030 
+27/01/2022, 19:02:39 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:02:39 - ERROR - cannot find posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:02:39 - ERROR - Failed to get posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:04:52 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:04:52 - ERROR - cannot find posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:04:52 - ERROR - Failed to get posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:05:02 - INFO - Server is running on port: 3030 
+27/01/2022, 19:05:07 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:05:07 - ERROR - cannot find posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:05:07 - ERROR - Failed to get posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:09:14 - INFO - Server is running on port: 3030 
+27/01/2022, 19:21:25 - DEBUG - auth.service - login with username: shuli 
+27/01/2022, 19:21:26 - ERROR - Failed to Login Invalid username or password 
+27/01/2022, 19:28:59 - INFO - Server is running on port: 3030 
+27/01/2022, 19:29:18 - DEBUG - auth.service - login with username: shuli 
+27/01/2022, 19:29:19 - ERROR - Failed to Login Invalid username or password 
+27/01/2022, 19:30:07 - INFO - Server is running on port: 3030 
+27/01/2022, 19:30:23 - DEBUG - auth.service - login with username: shuli 
+27/01/2022, 19:30:24 - ERROR - Failed to Login Invalid username or password 
+27/01/2022, 19:31:05 - DEBUG - auth.service - login with username: shuli 
+27/01/2022, 19:31:06 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:31:06 - ERROR - cannot find posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:31:06 - ERROR - Failed to get posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:36:28 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:36:28 - ERROR - cannot find posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:36:28 - ERROR - Failed to get posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:37:49 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:37:49 - ERROR - cannot find posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:37:49 - ERROR - Failed to get posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:39:52 - INFO - Server is running on port: 3030 
+27/01/2022, 19:39:58 - ERROR - cannot find user undefined | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:39:58 - ERROR - cannot find posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:39:58 - ERROR - Failed to get posts | TypeError: Cannot convert undefined or null to object 
+27/01/2022, 19:40:15 - INFO - Server is running on port: 3030 
+27/01/2022, 19:43:39 - INFO - Server is running on port: 3030 
+27/01/2022, 19:46:07 - INFO - Server is running on port: 3030 
+27/01/2022, 19:47:25 - INFO - Server is running on port: 3030 
+27/01/2022, 19:48:22 - INFO - Server is running on port: 3030 
+27/01/2022, 19:49:25 - INFO - Server is running on port: 3030 
+27/01/2022, 19:50:01 - INFO - Server is running on port: 3030 
+27/01/2022, 19:50:04 - INFO - Server is running on port: 3030 
+27/01/2022, 19:50:51 - INFO - Server is running on port: 3030 
+27/01/2022, 19:54:21 - INFO - Server is running on port: 3030 
+27/01/2022, 19:55:04 - INFO - Server is running on port: 3030 
+27/01/2022, 20:03:08 - DEBUG - auth.service - login with username: sharoni 
+27/01/2022, 20:03:08 - ERROR - Failed to Login Invalid username or password 
+27/01/2022, 20:03:41 - DEBUG - auth.service - login with username: Sharoni 
+27/01/2022, 21:26:09 - INFO - Server is running on port: 3030 
+27/01/2022, 21:26:26 - INFO - Server is running on port: 3030 
+27/01/2022, 21:29:06 - INFO - Server is running on port: 3030 
+27/01/2022, 21:29:13 - ERROR - cannot update post 61f17915c947374120815440 
+27/01/2022, 21:29:13 - ERROR - Failed to update post | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+27/01/2022, 21:33:21 - INFO - Server is running on port: 3030 
+27/01/2022, 21:33:45 - INFO - Server is running on port: 3030 
+27/01/2022, 22:17:31 - INFO - Server is running on port: 3030 
+27/01/2022, 22:20:37 - ERROR - Failed to get user | ReferenceError: params is not defined 
+27/01/2022, 22:20:47 - ERROR - Failed to get user | ReferenceError: params is not defined 
+27/01/2022, 22:21:11 - INFO - Server is running on port: 3030 
+27/01/2022, 22:36:32 - INFO - Server is running on port: 3030 
+27/01/2022, 22:37:26 - INFO - Server is running on port: 3030 
+27/01/2022, 22:37:58 - INFO - Server is running on port: 3030 
+27/01/2022, 22:39:41 - INFO - Server is running on port: 3030 
+27/01/2022, 22:45:38 - INFO - Server is running on port: 3030 
+27/01/2022, 22:45:43 - ERROR - cannot find posts | BSONTypeError: Argument passed in does not match the accepted types 
+27/01/2022, 22:45:43 - ERROR - Failed to get user posts | BSONTypeError: Argument passed in does not match the accepted types 
+27/01/2022, 22:46:03 - INFO - Server is running on port: 3030 
+27/01/2022, 22:47:00 - INFO - Server is running on port: 3030 
+27/01/2022, 22:47:15 - INFO - Server is running on port: 3030 
+29/01/2022, 13:05:48 - INFO - Server is running on port: 3030 
+29/01/2022, 15:05:35 - INFO - Server is running on port: 3030 
+29/01/2022, 15:05:44 - INFO - Server is running on port: 3030 
+29/01/2022, 15:06:39 - DEBUG - auth.service - login with username: shuli 
+29/01/2022, 15:07:08 - ERROR - Failed to update post | TypeError: Cannot read properties of undefined (reading '_id') 
+29/01/2022, 15:07:13 - ERROR - Failed to update post | TypeError: Cannot read properties of undefined (reading '_id') 
+29/01/2022, 15:11:34 - ERROR - Failed to update post | TypeError: Cannot read properties of undefined (reading '_id') 
+29/01/2022, 15:12:51 - ERROR - Failed to update post | TypeError: Cannot read properties of undefined (reading '_id') 
+29/01/2022, 15:13:06 - ERROR - Failed to update post | TypeError: Cannot read properties of undefined (reading '_id') 
+29/01/2022, 15:13:49 - INFO - Server is running on port: 3030 
+29/01/2022, 15:13:52 - ERROR - Failed to update post | TypeError: Cannot read properties of undefined (reading '_id') 
+29/01/2022, 15:14:53 - INFO - Server is running on port: 3030 
+29/01/2022, 15:14:55 - ERROR - Failed to update post | TypeError: Cannot read properties of undefined (reading '_id') 
+29/01/2022, 15:15:24 - INFO - Server is running on port: 3030 
+29/01/2022, 15:15:47 - INFO - Server is running on port: 3030 
+29/01/2022, 15:16:18 - INFO - Server is running on port: 3030 
+29/01/2022, 15:44:48 - DEBUG - auth.service - login with username: Shuki 
+29/01/2022, 15:51:04 - INFO - Server is running on port: 3030 
+29/01/2022, 16:01:27 - INFO - Server is running on port: 3030 
+29/01/2022, 16:01:35 - INFO - Server is running on port: 3030 
+29/01/2022, 16:12:13 - INFO - Server is running on port: 3030 
+29/01/2022, 16:12:30 - INFO - Server is running on port: 3030 
+29/01/2022, 16:15:17 - INFO - Server is running on port: 3030 
+29/01/2022, 16:15:58 - INFO - Server is running on port: 3030 
+29/01/2022, 16:16:59 - DEBUG - auth.service - login with username: shuli 
+29/01/2022, 19:09:14 - DEBUG - auth.service - login with username: shuli 
+29/01/2022, 19:09:41 - INFO - Server is running on port: 3030 
+29/01/2022, 19:09:53 - DEBUG - auth.service - login with username: shuli 
+29/01/2022, 19:09:54 - ERROR - Failed to Login ReferenceError: session is not defined 
+29/01/2022, 19:11:35 - INFO - Server is running on port: 3030 
+29/01/2022, 19:11:37 - INFO - Server is running on port: 3030 
+29/01/2022, 19:11:42 - INFO - Server is running on port: 3030 
+29/01/2022, 19:12:20 - INFO - Server is running on port: 3030 
+29/01/2022, 19:12:36 - DEBUG - auth.service - login with username: shuli 
+29/01/2022, 19:13:56 - INFO - Server is running on port: 3030 
+29/01/2022, 19:14:06 - DEBUG - auth.service - login with username: shuli 
+29/01/2022, 19:15:29 - INFO - Server is running on port: 3030 
+29/01/2022, 19:15:37 - INFO - Server is running on port: 3030 
+29/01/2022, 19:15:46 - DEBUG - auth.service - login with username: shuli 
+29/01/2022, 19:16:13 - INFO - Server is running on port: 3030 
+29/01/2022, 19:16:26 - DEBUG - auth.service - login with username: shuli 
+29/01/2022, 19:17:07 - INFO - Server is running on port: 3030 
+29/01/2022, 19:17:14 - INFO - Server is running on port: 3030 
+29/01/2022, 19:17:21 - INFO - Server is running on port: 3030 
+29/01/2022, 19:17:35 - DEBUG - auth.service - login with username: shuli 
+29/01/2022, 19:24:04 - INFO - Server is running on port: 3030 
+29/01/2022, 19:24:16 - INFO - Server is running on port: 3030 
+29/01/2022, 19:24:34 - DEBUG - auth.service - login with username: shuli 
+30/01/2022, 9:54:23 - INFO - Server is running on port: 3030 
+30/01/2022, 9:55:06 - INFO - Server is running on port: 3030 
+30/01/2022, 9:55:33 - DEBUG - auth.service - login with username: shuli 
+30/01/2022, 9:56:24 - INFO - Server is running on port: 3030 
+30/01/2022, 9:56:43 - DEBUG - auth.service - login with username: shuli 
+30/01/2022, 10:33:58 - INFO - Server is running on port: 3030 
+30/01/2022, 10:34:03 - INFO - Server is running on port: 3030 
+30/01/2022, 10:35:18 - DEBUG - auth.service - login with username: shuli 
+30/01/2022, 10:35:41 - ERROR - Failed to update post | ReferenceError: userId is not defined 
+30/01/2022, 10:37:06 - INFO - Server is running on port: 3030 
+30/01/2022, 10:37:21 - DEBUG - auth.service - login with username: shuli 
+30/01/2022, 10:39:03 - INFO - Server is running on port: 3030 
+30/01/2022, 10:39:16 - DEBUG - auth.service - login with username: shuli 
+30/01/2022, 10:40:22 - INFO - Server is running on port: 3030 
+30/01/2022, 10:40:37 - DEBUG - auth.service - login with username: shuli 
+30/01/2022, 10:53:35 - INFO - Server is running on port: 3030 
+30/01/2022, 10:54:03 - DEBUG - auth.service - login with username: shuli 
+30/01/2022, 10:54:31 - DEBUG - auth.service - login with username: Shuki 
+30/01/2022, 11:00:44 - INFO - Server is running on port: 3030 
+30/01/2022, 11:01:03 - DEBUG - auth.service - login with username: shuli 
+30/01/2022, 11:01:18 - DEBUG - auth.service - login with username: Shuki 
+30/01/2022, 14:06:27 - INFO - Server is running on port: 3030 
+30/01/2022, 14:06:49 - DEBUG - auth.service - login with username: shuli 
+30/01/2022, 16:55:57 - INFO - Server is running on port: 3030 
+30/01/2022, 16:56:17 - DEBUG - auth.service - login with username: Omer 
+30/01/2022, 17:10:21 - DEBUG - auth.service - login with username: Omer 
+30/01/2022, 17:35:45 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 11:00:51 - INFO - Server is running on port: 3030 
+31/01/2022, 11:00:56 - INFO - Server is running on port: 3030 
+31/01/2022, 11:01:59 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 11:02:20 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 11:05:53 - INFO - Server is running on port: 3030 
+31/01/2022, 11:06:31 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 11:09:52 - INFO - Server is running on port: 3030 
+31/01/2022, 11:10:14 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 11:10:26 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 11:18:38 - INFO - Server is running on port: 3030 
+31/01/2022, 11:19:08 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 11:19:09 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 11:20:22 - INFO - Server is running on port: 3030 
+31/01/2022, 11:20:29 - INFO - Server is running on port: 3030 
+31/01/2022, 11:20:49 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 11:20:56 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 11:22:45 - INFO - Server is running on port: 3030 
+31/01/2022, 11:23:07 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 11:23:13 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 11:24:15 - INFO - Server is running on port: 3030 
+31/01/2022, 11:24:40 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 11:24:46 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 11:27:17 - INFO - Server is running on port: 3030 
+31/01/2022, 11:27:38 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 11:27:44 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 11:28:55 - INFO - Server is running on port: 3030 
+31/01/2022, 11:29:14 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 11:29:22 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 11:36:29 - INFO - Server is running on port: 3030 
+31/01/2022, 11:36:47 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 11:36:55 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 11:39:48 - INFO - Server is running on port: 3030 
+31/01/2022, 11:39:58 - INFO - Server is running on port: 3030 
+31/01/2022, 11:40:15 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 11:40:21 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 11:49:08 - INFO - Server is running on port: 3030 
+31/01/2022, 12:02:17 - INFO - Server is running on port: 3030 
+31/01/2022, 12:02:51 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 12:02:56 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 12:04:52 - INFO - Server is running on port: 3030 
+31/01/2022, 12:05:18 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 12:05:23 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 12:08:42 - INFO - Server is running on port: 3030 
+31/01/2022, 12:09:05 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 12:09:10 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 12:12:32 - INFO - Server is running on port: 3030 
+31/01/2022, 12:13:04 - INFO - Server is running on port: 3030 
+31/01/2022, 12:13:18 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 12:13:25 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 12:18:48 - INFO - Server is running on port: 3030 
+31/01/2022, 12:18:52 - INFO - Server is running on port: 3030 
+31/01/2022, 12:19:22 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 12:19:28 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 12:20:35 - INFO - Server is running on port: 3030 
+31/01/2022, 12:20:52 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 12:20:58 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 12:27:38 - INFO - Server is running on port: 3030 
+31/01/2022, 12:27:56 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 12:28:02 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 12:49:22 - INFO - Server is running on port: 3030 
+31/01/2022, 12:49:40 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 12:49:46 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 12:53:58 - INFO - Server is running on port: 3030 
+31/01/2022, 12:54:23 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 12:54:29 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 12:55:55 - INFO - Server is running on port: 3030 
+31/01/2022, 12:57:23 - INFO - Server is running on port: 3030 
+31/01/2022, 12:57:46 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 12:57:51 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 13:05:02 - INFO - Server is running on port: 3030 
+31/01/2022, 13:06:01 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 13:06:06 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 13:07:41 - INFO - Server is running on port: 3030 
+31/01/2022, 13:08:00 - INFO - Server is running on port: 3030 
+31/01/2022, 13:08:22 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 13:08:29 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 13:13:20 - INFO - Server is running on port: 3030 
+31/01/2022, 13:13:52 - INFO - Server is running on port: 3030 
+31/01/2022, 13:14:20 - INFO - Server is running on port: 3030 
+31/01/2022, 13:14:48 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 13:14:54 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 13:17:16 - INFO - Server is running on port: 3030 
+31/01/2022, 13:17:32 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 13:17:37 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 13:20:37 - INFO - Server is running on port: 3030 
+31/01/2022, 13:21:05 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 13:21:11 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 13:31:22 - INFO - Server is running on port: 3030 
+31/01/2022, 13:31:45 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 13:31:49 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 13:33:22 - INFO - Server is running on port: 3030 
+31/01/2022, 13:33:40 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 13:33:45 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 13:36:25 - INFO - Server is running on port: 3030 
+31/01/2022, 13:36:49 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 13:36:55 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 13:38:22 - INFO - Server is running on port: 3030 
+31/01/2022, 13:38:40 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 13:38:44 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 13:40:43 - INFO - Server is running on port: 3030 
+31/01/2022, 13:41:00 - INFO - Server is running on port: 3030 
+31/01/2022, 13:41:14 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 13:41:20 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 13:42:39 - INFO - Server is running on port: 3030 
+31/01/2022, 13:42:53 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 13:42:59 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 13:45:01 - INFO - Server is running on port: 3030 
+31/01/2022, 13:45:16 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 13:45:21 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 14:07:40 - INFO - Server is running on port: 3030 
+31/01/2022, 14:07:56 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 14:08:02 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 14:09:09 - INFO - Server is running on port: 3030 
+31/01/2022, 14:09:22 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 14:09:28 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 14:13:18 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 14:15:02 - INFO - Server is running on port: 3030 
+31/01/2022, 14:15:24 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 14:15:30 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 14:21:40 - INFO - Server is running on port: 3030 
+31/01/2022, 14:21:55 - INFO - Server is running on port: 3030 
+31/01/2022, 14:22:03 - INFO - Server is running on port: 3030 
+31/01/2022, 14:22:20 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 14:22:27 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 14:24:26 - INFO - Server is running on port: 3030 
+31/01/2022, 14:24:50 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 14:24:56 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 14:26:53 - INFO - Server is running on port: 3030 
+31/01/2022, 14:27:01 - INFO - Server is running on port: 3030 
+31/01/2022, 14:27:22 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 14:27:28 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 14:39:04 - INFO - Server is running on port: 3030 
+31/01/2022, 14:39:31 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 14:39:38 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 14:43:14 - INFO - Server is running on port: 3030 
+31/01/2022, 14:43:29 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 14:43:35 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 14:47:05 - INFO - Server is running on port: 3030 
+31/01/2022, 15:00:08 - INFO - Server is running on port: 3030 
+31/01/2022, 15:00:30 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 15:00:34 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 15:08:28 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 15:12:01 - INFO - Server is running on port: 3030 
+31/01/2022, 15:12:03 - INFO - Server is running on port: 3030 
+31/01/2022, 15:12:32 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 15:12:38 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 17:29:59 - INFO - Server is running on port: 3030 
+31/01/2022, 17:30:20 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 17:30:25 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 17:34:29 - INFO - Server is running on port: 3030 
+31/01/2022, 17:34:30 - INFO - Server is running on port: 3030 
+31/01/2022, 17:34:52 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 17:34:58 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 17:48:34 - INFO - Server is running on port: 3030 
+31/01/2022, 17:48:51 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 17:48:56 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 18:33:52 - DEBUG - auth.service - login with username: Dandi 
+31/01/2022, 18:33:58 - DEBUG - auth.service - login with username: Omer 
+31/01/2022, 20:25:57 - INFO - Server is running on port: 3030 
+01/02/2022, 11:50:20 - INFO - Server is running on port: 3030 
+01/02/2022, 11:50:35 - DEBUG - auth.service - login with username: shuli 
+01/02/2022, 11:50:54 - DEBUG - auth.service - login with username: Omer 
+01/02/2022, 13:52:48 - INFO - Server is running on port: 3030 
+01/02/2022, 13:52:52 - INFO - Server is running on port: 3030 
+01/02/2022, 13:53:00 - INFO - Server is running on port: 3030 
+01/02/2022, 13:53:35 - INFO - Server is running on port: 3030 
+01/02/2022, 13:54:44 - INFO - Server is running on port: 3030 
+01/02/2022, 13:54:51 - INFO - Server is running on port: 3030 
+01/02/2022, 15:15:53 - DEBUG - auth.service - login with username: Omer 
+01/02/2022, 15:47:32 - INFO - Server is running on port: 3030 
+01/02/2022, 15:50:31 - INFO - Server is running on port: 3030 
+13/02/2022, 21:43:30 - INFO - Server is running on port: 3030 
+13/02/2022, 21:47:03 - DEBUG - auth.service - login with username: shuli 
+22/02/2022, 12:13:27 - INFO - Server is running on port: 3030 
+22/02/2022, 12:14:00 - DEBUG - auth.service - login with username: Shuki 
+26/02/2022, 12:17:01 - INFO - Server is running on port: 3030 
