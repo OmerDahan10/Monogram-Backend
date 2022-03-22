@@ -10,7 +10,7 @@ const session = expressSession({
     secret: 'coding',
     resave: false,
     saveUninitialized: true,
-    cookie: { secure: false }
+    cookie: { secure: false } 
 })
 app.use(express.json())
 app.use(session)
