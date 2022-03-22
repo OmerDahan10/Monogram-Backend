@@ -450,3 +450,11 @@
 22/02/2022, 12:14:00 - DEBUG - auth.service - login with username: Shuki 
 26/02/2022, 12:17:01 - INFO - Server is running on port: 3030 
 01/03/2022, 16:51:43 - INFO - Server is running on port: 3030 
+20/03/2022, 18:56:45 - INFO - Server is running on port: 3030 
+20/03/2022, 18:57:56 - DEBUG - auth.service - login with username: Omer Dahan 
+20/03/2022, 18:57:57 - ERROR - Failed to Login Invalid username or password 
+20/03/2022, 18:58:04 - DEBUG - auth.service - login with username:  
+20/03/2022, 18:58:04 - ERROR - Failed to Login Invalid username or password 
+20/03/2022, 18:58:06 - DEBUG - auth.service - login with username: Shuki 
+22/03/2022, 16:17:23 - DEBUG - auth.service - login with username: Shuki 
+22/03/2022, 16:25:33 - INFO - Server is running on port: 3030 
