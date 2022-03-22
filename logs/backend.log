@@ -461,3 +461,6 @@
 22/03/2022, 16:32:16 - INFO - Server is running on port: 3030 
 22/03/2022, 16:39:33 - INFO - Server is running on port: 3030 
 22/03/2022, 16:54:41 - INFO - Server is running on port: 3030 
+22/03/2022, 17:05:53 - INFO - Server is running on port: 3030 
+22/03/2022, 17:06:14 - DEBUG - auth.service - login with username: Shuki 
+22/03/2022, 17:08:24 - DEBUG - auth.service - login with username: Shuki 
